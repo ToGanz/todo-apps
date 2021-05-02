@@ -24,6 +24,7 @@ Repository[https://github.com/ToGanz/js-todo-app]
 Repository[https://github.com/ToGanz/vue-todo-app]
 
 * Ruby on Rails: Built with Fullstack Rails and TDD (RSpec and Capybara). Database is postgresql.
+Repository[https://github.com/ToGanz/rails-todo-app]
 
 ## Upcoming
 
