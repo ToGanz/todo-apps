@@ -1,4 +1,4 @@
-## ToDo Apps
+# ToDo Apps
 
 I learned a lot of new technologies in the last months. To cement this knowledge and to be able to compare these technologies better, I wanted to build the same app in each technology. What I picked for this is the good old todo app.
 
@@ -15,17 +15,17 @@ Responsive layout built with css-grid
 
 
 
-# Projects:
+## Projects:
 
 * Javascript: Built with no framework and no backend
 Repository[https://github.com/ToGanz/js-todo-app]
 
-* Vue.js: Built with Vue.js and vuex. The Backend is the firebase API
+* Vue.js: Built with Vue.js and vuex. The Backend is the firebase API.
 Repository[https://github.com/ToGanz/vue-todo-app]
 
 * Ruby on Rails: Built with Fullstack Rails and TDD (RSpec and Capybara). Database is postgresql.
 
-# Upcoming
+## Upcoming
 
 * Vue.js and Typescript
 
