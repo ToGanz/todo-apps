@@ -18,13 +18,16 @@ Responsive layout built with css-grid
 ## Projects:
 
 * Javascript: Built with no framework and no backend
-Repository[https://github.com/ToGanz/js-todo-app]
+
+Repository [https://github.com/ToGanz/js-todo-app]
 
 * Vue.js: Built with Vue.js and vuex. The Backend is the firebase API.
-Repository[https://github.com/ToGanz/vue-todo-app]
+
+Repository [https://github.com/ToGanz/vue-todo-app]
 
 * Ruby on Rails: Built with Fullstack Rails and TDD (RSpec and Capybara). Database is postgresql.
-Repository[https://github.com/ToGanz/rails-todo-app]
+
+Repository [https://github.com/ToGanz/rails-todo-app]
 
 ## Upcoming
 
